@@ -85,3 +85,5 @@ C:\Users\ADM\Desktop\DevOps\Hospital\Hospital\obj\Debug\net6.0\refint\Hospital.d
 C:\Users\ADM\Desktop\DevOps\Hospital\Hospital\obj\Debug\net6.0\Hospital.pdb
 C:\Users\ADM\Desktop\DevOps\Hospital\Hospital\obj\Debug\net6.0\Hospital.genruntimeconfig.cache
 C:\Users\ADM\Desktop\DevOps\Hospital\Hospital\obj\Debug\net6.0\ref\Hospital.dll
+C:\Users\ADM\Desktop\DevOps\Hospital\Hospital\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ADM\Desktop\DevOps\Hospital\Hospital\bin\Debug\net6.0\nunit.framework.dll
